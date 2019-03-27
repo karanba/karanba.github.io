@@ -8,7 +8,7 @@ lang: tr
 blog: yes
 --- 
 
-Çeşitli araçlar ve ortmalar için hızlı başvuru kaynağı oluşturabilecek bilgiler.
+Çeşitli araçlar ve ortamlar için hızlı başvuru kaynağı oluşturabilecek bilgiler.
 
 # Node & Npm
 
