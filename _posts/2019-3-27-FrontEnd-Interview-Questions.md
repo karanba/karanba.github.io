@@ -2,6 +2,7 @@
 layout: post
 title: Front-End İş Görüşmesi Soruları 
 categories: [Front-End]
+tags: [http, html, css, javascript, interview]
 level: Başlangıç
 lang: tr
 blog: yes
