@@ -25,3 +25,17 @@ npm home angular
 # goes to https://github.com/angular/angular.js
 npm repo angular
 ~~~
+
+## VS Code
+
+### Open with VS Code from command line
+
+~~~
+
+# open current directory or given path
+code . or path
+
+# open with last active instance
+code <file_name> -r 
+
+~~~
