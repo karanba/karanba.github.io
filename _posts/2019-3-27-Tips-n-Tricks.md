@@ -38,4 +38,7 @@ code . or path
 # open with last active instance
 code <file_name> -r 
 
+# open a file at a line number
+code -g <file_name>:<line>:<column?>
+    
 ~~~
