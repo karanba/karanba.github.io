@@ -13,15 +13,15 @@ blog: yes
 ## Node & Npm
 
 ### npm run komutuna ek argüman geçmek için _--_
-```bash
+~~~ bash
 npm run build -- --watch
-```
+~~~
 
 ### npm paketinin anasayfasını ve repository sayfasını açmak için
-```bash
+~~~ bash
 # goes to https://angularjs.org/
 npm home angular
 
 # goes to https://github.com/angular/angular.js
 npm repo angular
-```
+~~~
