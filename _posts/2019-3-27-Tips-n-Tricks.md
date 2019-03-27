@@ -30,7 +30,7 @@ npm repo angular
 
 ### Open with VS Code from command line
 
-~~~
+```shell
 
 # open current directory or given path
 code . or path
@@ -41,4 +41,4 @@ code <file_name> -r
 # open a file at a line number
 code -g <file_name>:<line>:<column?>
     
-~~~
+```
