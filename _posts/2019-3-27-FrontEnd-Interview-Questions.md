@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Front-End İş Görüşmesi Soruları 
+level: Başlangıç
+lang: tr
+blog: yes
 --- 
 
+Front -End İş görüşmlerinde yararlı bir kaynak olması umudu ile teknik görüşmede sorulabilecek bazı soruları ve cevaplarını yazmaya çalıştım. Umarım faydalı olur.
 
 ## Front-End İş Görüşmesi Soruları?
 
