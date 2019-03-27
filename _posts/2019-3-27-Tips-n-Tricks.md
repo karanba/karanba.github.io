@@ -17,7 +17,11 @@ blog: yes
 npm run build -- --watch
 ```
 
-### npm paketinin repository sayfasını açmak için
+### npm paketinin anasayfasını ve repository sayfasını açmak için
 ```bash
+# goes to https://angularjs.org/
+npm home angular
+
+# goes to https://github.com/angular/angular.js
 npm repo angular
 ```
