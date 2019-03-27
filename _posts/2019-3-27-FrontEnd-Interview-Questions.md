@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Front-End İş Görüşmesi Soruları 
+categories: [Front-End]
 level: Başlangıç
 lang: tr
 blog: yes
