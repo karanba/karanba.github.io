@@ -10,11 +10,11 @@ blog: yes
 
 AgularJS Nedir? Hangi özellikleri vardır ve hangi ihtiyaca cevap verir?
 
-## AngularJS Nedir?
+## AngularJS?
 
-AngularJS, JavaScript tabanlı, açık kaynak kodlu başta Google olmak üzere pekçok kişinin ve kurumun dahil olduğu bir topluluk tarafından geliştirilen web ön yüz programlama iskeleti veya çatısıdır yani orjinal terimi ile Front-End framework'ü dür.  
+AngularJS, JavaScript tabanlı, açık kaynak kodlu başta Google olmak üzere pekçok kişinin ve kurumun dahil olduğu bir topluluk tarafından geliştirilen web ön yüz programlama iskeleti(çatısıdır) yani orjinal terimi ile front-end framework'ü dür.  
 
-***not:** Bu arada hemen şunu belirtmekte fayda var. **AngularJS** ve **Angular** aynı framework'ün farklı veriyonlarını ifade eder. AngularJS 1.x versiyonu Angular ise 2 ve üzeri versiyonlar için kullanılan isimdir. Bu ayrımın temel sebeblerinden biri 1.x ve 2 ile başlıyan versiyonlar arasında çok ciddi farklar olmasından dolayıdır. Bu yazının yazıldığı sırada Angular 8.x versiyonları yayınlanmış durumdadır. Biz burada 1.x yani AngularJS konusundan bahsedeceğiz.*
+***not:** Bu arada hemen şunu belirtmekte fayda var. **AngularJS** ve **Angular** aynı framework'ün farklı veriyonlarını ifade eder. AngularJS 1.x versiyonu Angular ise 2 ve üzeri versiyonlar için kullanılan isimdir. Bu ayrımın temel sebeblerinden biri 1.x ile 2 ve üstü  versiyonlar arasında çok ciddi farklar olmasından dolayıdır. Bu yazının yazıldığı sırada Angular 8.x versiyonları yayınlanmış durumdaydı. Biz burada 1.x yani AngularJS'den bahsedeceğiz.*
 
 Benzerleri arasında ön plana çıkan özelliği ise SPA (Single Page Application - Tek Sayfalı Uygulama) kavramı çerçevesinde her ihtyacı hedeflemeye çalışmasıdır. AngularJS bu bağlamda ele aldığı özelliklerin başlıcalarını şu şekilde sıralayabiliriz.
 
@@ -25,4 +25,4 @@ Benzerleri arasında ön plana çıkan özelliği ise SPA (Single Page Applicati
 * Bağımlılıkları yönetebilme 
 * Yönlendirme (Routing)
 
-Bununla birlikte şunu belirtmem gerekir AngularJS'i yola çıkışta kullandığı temel motosu "daha az kod ile daha çok iş" - "Write less, do more" konusunda hakkını vermek gerekir. JQuery ile geliştirmiş bir uygulamayı AngularJs ile yazımı drmatik olarak kod miktarını azaltabilir. Angular ile birlikte bu motto "Web ve Masaüstü için tek framework" - "One framework Mobile & Desktop" olarak değiştirilmiştir.
+Bununla birlikte şunu belirtmek gerekir; AngularJS'in yola çıkışta kullandığı temel motosu "daha az kod ile daha çok iş" - "Write less, do more" konusunda oldukça başarılıdır. JQuery ile geliştirmiş bir uygulamayı AngularJS ile yazımı drmatik olarak kod miktarını azaltabilir. Angular ile birlikte bu motto "Web ve Masaüstü için tek framework" - "One framework Mobile & Desktop" olarak değiştirilmiştir.
